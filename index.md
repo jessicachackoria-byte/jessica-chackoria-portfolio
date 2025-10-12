@@ -1,3 +1,8 @@
+---
+title: "Jessica Chackoria — People Analytics Portfolio"
+robots: noindex, nofollow
+---
+
 # Jessica Chackoria — People Analytics Portfolio
 
 Welcome! This portfolio highlights public dashboards and frequently used code for people-related data projects.
