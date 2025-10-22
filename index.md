@@ -1,15 +1,16 @@
 ---
-title: "Jessica Chackoria — People Analytics Portfolio"
+title: "Jessica Chackoria — Analytics Portfolio"
 robots: noindex, nofollow
 ---
 
-# Jessica Chackoria — People Analytics Portfolio
+# Jessica Chackoria — Analytics Portfolio
 
-Welcome! This portfolio highlights public dashboards and frequently used code for people-related data projects.
+Welcome! This portfolio features dashboards and code from people-related data projects.
 
 ## Public Dashboards
 
-Here are examples of dashboards I’ve developed to meet stakeholder needs, ranging from routine reporting to program review and strategic planning. All are publicly available.
+Here are examples of dashboards I have developed using Tableau to meet stakeholder needs, ranging from routine reporting to program review and strategic planning.  
+These projects showcase skills in data visualization, stakeholder engagement, and translating complex information into actionable insights—capabilities that are highly applicable to **People Analytics**, **Organizational Effectiveness**, and **Institutional Research**. All dashboards are publicly available.
 
 - [**Graduate Student Retention and Graduation Dashboard**](https://cie.ucmerced.edu/graduate-retention-and-graduation)  
   
