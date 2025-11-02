@@ -1,4 +1,6 @@
 # ---------------------------------------------
+# Script: Generic Propensity Score Matching (PSM)
+# 
 # What is Propensity Score Matching?
 # Propensity Score Matching (PSM) is a statistical technique used to reduce selection bias
 # in observational studies by pairing treated and control units with similar characteristics.
@@ -65,4 +67,3 @@ run_psm <- function(data, treatment, covariates, method = "optimal", ratio = 1, 
 #   treatment = "treatment_var",
 #   covariates = c("age", "gender", "income", "education")
 # )
-
