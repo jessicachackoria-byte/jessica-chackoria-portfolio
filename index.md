@@ -5,7 +5,7 @@ robots: noindex, nofollow
 
 # Jessica Chackoria — Analytics Portfolio
 
-Welcome! This portfolio features dashboards and code from people-related data projects.
+Welcome! I’m **Jessica Chackoria**, a data analyst and organizational psychologist with a PhD in Industrial-Organizational Psychology. I specialize in transforming complex data—often from surveys—into clear, actionable insights through advanced analytics and interactive dashboards. My work bridges **People Analytics**, **Organizational Effectiveness**, and **Institutional Research**, combining technical rigor with a human-centered approach. I tend to be happiest when I’m in my zone writing R code, sipping a warm cup of tea on the side. When I’m not in front of my computer screen, I’m usually catching up on Formula One news or scrolling through dog memes.
 
 ## Public Dashboards
 
