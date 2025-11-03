@@ -21,3 +21,21 @@ Below are examples of reusable R scripts demonstrating applied analytics techniq
 
 - [**Propensity Score Matching**](code-snippets/Propensity%20Score%20Matching.R) — Performs propensity score matching to generate a comparison group for evaluating the effect of interventions.
 - [**Cohen’s Kappa**](code-snippets/Cohens%20Kappa.R) — Calculates interrater reliability between evaluators.
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Select all anchor tags
+  document.querySelectorAll('a[href]').forEach(link => {
+    // Skip internal anchors (links that start with "#")
+    if (link.getAttribute('href').startsWith('#')) return;
+
+    // Skip same-page or relative links (those that don't start with http)
+    if (!link.getAttribute('href').startsWith('http')) return;
+
+    // Add new-tab attributes
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+});
+</script>
