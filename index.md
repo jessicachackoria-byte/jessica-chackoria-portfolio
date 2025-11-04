@@ -19,8 +19,13 @@ These projects showcase skills in data visualization, stakeholder engagement, an
 ## Code Examples
 Below are examples of reusable R scripts demonstrating applied analytics techniques relevant to People Analytics and Institutional Research. These scripts contain code only; no sensitive or confidential information is included.
 
-- [**Propensity Score Matching**](https://github.com/jessicachackoria-byte/jessica-chackoria-portfolio/blob/main/code-snippets/Propensity%20Score%20Matching.R) — Performs propensity score matching to generate a comparison group for evaluating the effect of interventions.
-- [**Cohen’s Kappa**](https://github.com/jessicachackoria-byte/jessica-chackoria-portfolio/blob/main/code-snippets/Cohens%20Kappa.R) — Calculates interrater reliability between evaluators.
+- [**Cohen’s Kappa**](https://github.com/jessicachackoria-byte/jessica-chackoria-portfolio/blob/main/code-snippets/Cohens%20Kappa.R) — Code for calculating interrater reliability between evaluators
+- [**Convert qualtrics data - Wide to long**](https://github.com/jessicachackoria-byte/jessica-chackoria-portfolio/blob/main/code-snippets/Convert%20qualtrics%20%20data%20-%20Wide%20to%20long.R) — Code for reshaping Qualtrics data into a long format suitable for visualization in tools like Tableau or Power BI
+- [**Propensity Score Matching**](https://github.com/jessicachackoria-byte/jessica-chackoria-portfolio/blob/main/code-snippets/Propensity%20Score%20Matching.R) — Code to conduct propensity score matching to generate a comparison group for evaluating the effect of interventions
+
+## Resources
+
+As I developed my R skills in graduate school, I began building a personal repository of frequently used functions for cleaning, reshaping, and understanding datasets. They can be found here [**R Cheat Sheet**](https://docs.google.com/document/d/1BxzLUHBRzZudk8mhj9cHfmsPEeRxx-5mZOBTp5rkoHg/edit?usp=sharing ).
 
 
 <script>
