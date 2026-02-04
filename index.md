@@ -5,13 +5,11 @@ robots: noindex, nofollow
 
 # Jessica Chackoria — Analytics Portfolio
 
-Welcome! I’m **Jessica Chackoria**, a data analyst and organizational psychologist with a PhD in Industrial-Organizational Psychology. I specialize in transforming complex, people-related data—often from surveys—into clear, actionable insights through advanced analytics and interactive dashboards. My work emphasizes technical rigor, thoughtful measurement, and a human-centered approach.  
-I tend to be happiest when I’m in my zone writing R code, sipping a warm cup of tea, with my beagle close by for snuggles. When I’m not in front of my computer screen, I’m usually catching up on Formula One news or scrolling through dog memes.
+Welcome! I’m **Jessica Chackoria**, a data analyst and organizational psychologist with a PhD in Industrial-Organizational Psychology. I specialize in transforming complex, people-related data—often from surveys—into clear, actionable insights through advanced analytics and interactive dashboards. My work emphasizes technical rigor, thoughtful measurement, and a human-centered approach. I tend to be happiest when I’m in my zone writing R code, sipping a warm cup of tea, with my beagle close by for snuggles. When I’m not in front of my computer screen, I’m usually catching up on Formula One news or scrolling through dog memes.
 
 ## Public Dashboards
 
-Here are examples of dashboards I have developed using Tableau to support stakeholder needs ranging from routine reporting to program review and strategic planning.  
-These projects demonstrate skills in data visualization, stakeholder engagement, and translating analysis into decision-ready insights. All dashboards are publicly available.
+Here are examples of dashboards I have developed using Tableau to support stakeholder needs ranging from routine reporting to program review and strategic planning. These projects demonstrate skills in data visualization, stakeholder engagement, and translating analysis into decision-ready insights. All dashboards are publicly available.
 
 - [**Graduate Student Retention and Graduation Dashboard**](https://cie.ucmerced.edu/graduate-retention-and-graduation)  
 - [**Degrees Awarded Dashboard**](https://cie.ucmerced.edu/degrees-awarded)  
@@ -19,8 +17,7 @@ These projects demonstrate skills in data visualization, stakeholder engagement,
 
 ## Code Examples
 
-Below are examples of reusable R scripts that illustrate common analytics workflows for people-related data, including survey analysis, reporting automation, and causal inference.  
-Given that my work bridges I-O psychology and institutional research, these examples are applicable across several subdomains, including **people analytics**, **employee listening**, and **institutional research**.  These scripts contain code only; no sensitive or confidential information is included.
+Below are R scripts for analytics tasks that commonly arise when working with people-related data, including survey analysis, reporting automation, and program evaluation. Given that my work bridges I-O psychology and institutional research, these examples are applicable across several subdomains, including **people analytics**, **employee listening**, and **institutional research**.  These scripts contain code only; no sensitive or confidential information is included.
 
 - [**Cohen’s Kappa**](https://github.com/jessicachackoria-byte/jessica-chackoria-portfolio/blob/main/code-snippets/Cohens%20Kappa.R) — Code for calculating interrater reliability between evaluators
 - [**Convert qualtrics data - Wide to long**](https://github.com/jessicachackoria-byte/jessica-chackoria-portfolio/blob/main/code-snippets/Convert%20qualtrics%20%20data%20-%20Wide%20to%20long.R) — Code for reshaping Qualtrics data into a long format suitable for visualization in tools like Tableau or Power BI
