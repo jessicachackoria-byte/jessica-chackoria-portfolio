@@ -12,7 +12,6 @@ Welcome! I’m **Jessica Chackoria**, a data analyst and organizational psycholo
 Here are examples of dashboards I have developed using Tableau to support stakeholder needs ranging from routine reporting to program review and strategic planning. These projects demonstrate skills in data visualization, stakeholder engagement, and translating analysis into decision-ready insights. All dashboards are publicly available.
 
 - [**Graduate Student Retention and Graduation Dashboard**](https://cie.ucmerced.edu/graduate-retention-and-graduation)  
-- [**Degrees Awarded Dashboard**](https://cie.ucmerced.edu/degrees-awarded)  
 - [**Underaduate Student Retention Dashboard**](https://cie.ucmerced.edu/undergraduate-retention-and-graduation)    
 
 ## Code Examples
